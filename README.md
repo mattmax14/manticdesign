@@ -1,0 +1,2 @@
+# manticdesign
+Various code projects
